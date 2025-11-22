@@ -106,6 +106,10 @@ finance-concepts/
 
 > 记录学习历程，见证成长
 
+### 进行中
+- ▶️ `fundamentals/economics/00-what-is-economics.md` - 复习稀缺性、机会成本与经济学思维框架
+- ▶️ `fundamentals/economics/06-inflation-unemployment.md` - 理解通胀、失业指标与政策权衡
+
 ### 待开始
 - ⏳ **经济学基础** - 供需、市场机制、宏观经济
 - ⏳ **会计基础** - 三大报表、财务分析
