@@ -49,7 +49,7 @@
 | 市场结构概览 | `04-market-structures.md` | 进行中 |
 | GDP 与经济增长 | `05-gdp-and-growth.md` | 进行中 |
 | 通胀与失业 | `06-inflation-unemployment.md` | 进行中 |
-| 财政与货币政策 | `07-policy-tools.md` | 待编写 |
-| 国际贸易基础 | `08-international-trade.md` | 待编写 |
+| 财政与货币政策 | `07-policy-tools.md` | 进行中 |
+| 国际贸易基础 | `08-international-trade.md` | 进行中 |
 
 欢迎根据学习进度逐步完善上述笔记，并添加个人理解或案例。
