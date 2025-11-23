@@ -106,12 +106,22 @@ finance-concepts/
 
 > 记录学习历程，见证成长
 
+### 已完成
+- ✅ `fundamentals/economics/00-what-is-economics.md` - 经济学核心理念
+- ✅ `fundamentals/economics/01-supply-and-demand.md` - 供需模型与均衡
+- ✅ `fundamentals/economics/02-elasticity.md` - 弹性与敏感度分析
+- ✅ `fundamentals/economics/03-surplus.md` - 交易福利与无谓损失
+- ✅ `fundamentals/economics/04-market-structures.md` - 不同竞争格局
+- ✅ `fundamentals/economics/05-gdp-and-growth.md` - GDP 与增长指标
+- ✅ `fundamentals/economics/06-inflation-unemployment.md` - 通胀与失业权衡
+
 ### 进行中
-- ▶️ `fundamentals/economics/00-what-is-economics.md` - 复习稀缺性、机会成本与经济学思维框架
-- ▶️ `fundamentals/economics/06-inflation-unemployment.md` - 理解通胀、失业指标与政策权衡
+- ▶️ `fundamentals/economics/07-policy-tools.md` - 财政与货币政策工具
+- ▶️ `fundamentals/economics/08-international-trade.md` - 比较优势与贸易政策
 
 ### 待开始
-- ⏳ **经济学基础** - 供需、市场机制、宏观经济
+- ⏳ `fundamentals/economics/09-review-checklist.md` - 阶段复盘与自测
+- ⏳ `fundamentals/economics/10-further-learning.md` - 进阶路线规划
 - ⏳ **会计基础** - 三大报表、财务分析
 - ⏳ **金融市场概览** - 股票、债券、衍生品市场
 

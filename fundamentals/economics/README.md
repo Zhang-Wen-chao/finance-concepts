@@ -42,14 +42,16 @@
 
 | 主题 | 笔记文件 | 状态 |
 | --- | --- | --- |
-| 经济学是什么 | `00-what-is-economics.md` | 进行中 |
-| 供给与需求基础 | `01-supply-and-demand.md` | 进行中 |
-| 弹性与其应用 | `02-elasticity.md` | 进行中 |
-| 消费者与生产者剩余 | `03-surplus.md` | 进行中 |
-| 市场结构概览 | `04-market-structures.md` | 进行中 |
-| GDP 与经济增长 | `05-gdp-and-growth.md` | 进行中 |
-| 通胀与失业 | `06-inflation-unemployment.md` | 进行中 |
+| 经济学是什么 | `00-what-is-economics.md` | ✅ 已完成 |
+| 供给与需求基础 | `01-supply-and-demand.md` | ✅ 已完成 |
+| 弹性与其应用 | `02-elasticity.md` | ✅ 已完成 |
+| 消费者与生产者剩余 | `03-surplus.md` | ✅ 已完成 |
+| 市场结构概览 | `04-market-structures.md` | ✅ 已完成 |
+| GDP 与经济增长 | `05-gdp-and-growth.md` | ✅ 已完成 |
+| 通胀与失业 | `06-inflation-unemployment.md` | ✅ 已完成 |
 | 财政与货币政策 | `07-policy-tools.md` | 进行中 |
 | 国际贸易基础 | `08-international-trade.md` | 进行中 |
+| 复习清单与自测 | `09-review-checklist.md` | 待编写 |
+| 进阶路线与延伸资源 | `10-further-learning.md` | 待编写 |
 
 欢迎根据学习进度逐步完善上述笔记，并添加个人理解或案例。
