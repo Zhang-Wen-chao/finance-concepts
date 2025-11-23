@@ -49,7 +49,7 @@
 | 市场结构概览 | `04-market-structures.md` | ✅ 已完成 |
 | GDP 与经济增长 | `05-gdp-and-growth.md` | ✅ 已完成 |
 | 通胀与失业 | `06-inflation-unemployment.md` | ✅ 已完成 |
-| 财政与货币政策 | `07-policy-tools.md` | 进行中 |
+| 财政与货币政策 | `07-policy-tools.md` | ✅ 已完成 |
 | 国际贸易基础 | `08-international-trade.md` | 进行中 |
 | 复习清单与自测 | `09-review-checklist.md` | 待编写 |
 | 进阶路线与延伸资源 | `10-further-learning.md` | 待编写 |

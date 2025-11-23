@@ -114,9 +114,9 @@ finance-concepts/
 - ✅ `fundamentals/economics/04-market-structures.md` - 不同竞争格局
 - ✅ `fundamentals/economics/05-gdp-and-growth.md` - GDP 与增长指标
 - ✅ `fundamentals/economics/06-inflation-unemployment.md` - 通胀与失业权衡
+- ✅ `fundamentals/economics/07-policy-tools.md` - 财政与货币政策工具
 
 ### 进行中
-- ▶️ `fundamentals/economics/07-policy-tools.md` - 财政与货币政策工具
 - ▶️ `fundamentals/economics/08-international-trade.md` - 比较优势与贸易政策
 
 ### 待开始
