@@ -117,11 +117,10 @@ finance-concepts/
 - ✅ `fundamentals/economics/07-policy-tools.md` - 财政与货币政策工具
 
 ### 进行中
-- ▶️ `fundamentals/economics/08-international-trade.md` - 比较优势与贸易政策
+- ▶️ `fundamentals/economics/09-review-checklist.md` - 阶段复盘与自测
+- ▶️ `fundamentals/economics/10-further-learning.md` - 进阶路线规划
 
 ### 待开始
-- ⏳ `fundamentals/economics/09-review-checklist.md` - 阶段复盘与自测
-- ⏳ `fundamentals/economics/10-further-learning.md` - 进阶路线规划
 - ⏳ **会计基础** - 三大报表、财务分析
 - ⏳ **金融市场概览** - 股票、债券、衍生品市场
 
