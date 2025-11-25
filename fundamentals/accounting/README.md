@@ -47,7 +47,7 @@
 | 资产负债表 | `02-balance-sheet.md` | ✅ 已完成 |
 | 利润表 | `03-income-statement.md` | 进行中 |
 | 现金流量表 | `04-cash-flow-statement.md` | 进行中 |
-| 常见业务分录 | `05-journal-entries.md` | 待编写 |
+| 常见业务分录 | `05-journal-entries.md` | 进行中 |
 | 财务比率分析 | `06-financial-ratios.md` | 待编写 |
 
 欢迎根据学习节奏补充实例、手写分录或真实企业的分析笔记。
