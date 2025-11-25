@@ -44,8 +44,8 @@
 | --- | --- | --- |
 | 会计是什么 | `00-what-is-accounting.md` | 待编写 |
 | 会计等式与借贷记账 | `01-accounting-equation.md` | 进行中 |
-| 资产负债表 | `02-balance-sheet.md` | 进行中 |
-| 利润表 | `03-income-statement.md` | 待编写 |
+| 资产负债表 | `02-balance-sheet.md` | ✅ 已完成 |
+| 利润表 | `03-income-statement.md` | 进行中 |
 | 现金流量表 | `04-cash-flow-statement.md` | 待编写 |
 | 常见业务分录 | `05-journal-entries.md` | 待编写 |
 | 财务比率分析 | `06-financial-ratios.md` | 待编写 |
