@@ -51,7 +51,6 @@
 | 通胀与失业 | `06-inflation-unemployment.md` | ✅ 已完成 |
 | 财政与货币政策 | `07-policy-tools.md` | ✅ 已完成 |
 | 国际贸易基础 | `08-international-trade.md` | ✅ 已完成 |
-| 复习清单与自测 | `09-review-checklist.md` | 待编写 |
-| 进阶路线与延伸资源 | `10-further-learning.md` | 待编写 |
+| 复盘与进阶指南 | `09-review-checklist.md` | 进行中 |
 
 欢迎根据学习进度逐步完善上述笔记，并添加个人理解或案例。
