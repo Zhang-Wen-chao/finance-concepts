@@ -115,15 +115,21 @@ finance-concepts/
 - ✅ `fundamentals/economics/05-gdp-and-growth.md` - GDP 与增长指标
 - ✅ `fundamentals/economics/06-inflation-unemployment.md` - 通胀与失业权衡
 - ✅ `fundamentals/economics/07-policy-tools.md` - 财政与货币政策工具
+- ✅ `fundamentals/accounting/02-balance-sheet.md` - 资产负债表结构与示例
 
 ### 进行中
 - ▶️ `fundamentals/economics/09-review-checklist.md` - 阶段复盘与自测
 - ▶️ `fundamentals/economics/10-further-learning.md` - 进阶路线规划
-- ▶️ `fundamentals/accounting/README.md` - 会计学习路线概览
 - ▶️ `fundamentals/accounting/01-accounting-equation.md` - 会计等式与借贷记账
+- ▶️ `fundamentals/accounting/03-income-statement.md` - 利润表结构与利润层级
+- ▶️ `fundamentals/accounting/04-cash-flow-statement.md` - 现金流量表与间接法
+- ▶️ `fundamentals/accounting/05-journal-entries.md` - 常见业务与调整分录
+- ▶️ `fundamentals/accounting/06-financial-ratios.md` - 基础财务比率分析
 
 ### 待开始
-- ⏳ **会计基础** - 三大报表、财务分析
+- ⏳ `fundamentals/accounting/00-what-is-accounting.md` - 会计概念与基本假设
+- ⏳ **金融数学** - 货币时间价值、年金、利率与贴现
+- ⏳ **金融市场概览** - 股票、债券、衍生品市场
 - ⏳ **金融市场概览** - 股票、债券、衍生品市场
 
 ## 🤔 待深入理解的概念
