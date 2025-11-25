@@ -119,6 +119,8 @@ finance-concepts/
 ### 进行中
 - ▶️ `fundamentals/economics/09-review-checklist.md` - 阶段复盘与自测
 - ▶️ `fundamentals/economics/10-further-learning.md` - 进阶路线规划
+- ▶️ `fundamentals/accounting/README.md` - 会计学习路线概览
+- ▶️ `fundamentals/accounting/01-accounting-equation.md` - 会计等式与借贷记账
 
 ### 待开始
 - ⏳ **会计基础** - 三大报表、财务分析
