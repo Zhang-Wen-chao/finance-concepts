@@ -128,11 +128,11 @@ finance-concepts/
 - ▶️ `fundamentals/accounting/06-financial-ratios.md` - 基础财务比率分析
 - ▶️ `fundamentals/financial-mathematics/01-single-sum.md` - 单笔现金流的现值与终值
 - ▶️ `fundamentals/financial-mathematics/02-annuity.md` - 年金与永续年金
-- ▶️ `fundamentals/financial-mathematics/03-loan-amortization.md` - 等额本息贷款与摊还表
+- ▶️ `fundamentals/financial-mathematics/04-interest-rates.md` - 利率换算与收益率
 
 ### 待开始
 - ⏳ `fundamentals/accounting/00-what-is-accounting.md` - 会计概念与基本假设
-- ⏳ `fundamentals/financial-mathematics/04-interest-rates.md` - 利率换算与收益率
+- ⏳ `fundamentals/financial-mathematics/05-discounting-npv.md` - 贴现曲线与净现值
 - ⏳ **金融市场概览** - 股票、债券、衍生品市场
 
 ## 🤔 待深入理解的概念

@@ -43,8 +43,8 @@
 | 时间价值入门 | `00-time-value-intro.md` | ✅ 已完成 |
 | 单笔现金流现值/终值 | `01-single-sum.md` | 进行中 |
 | 年金与永续年金 | `02-annuity.md` | 进行中 |
-| 等额本息与贷款摊还 | `03-loan-amortization.md` | 进行中 |
-| 利率换算与收益率 | `04-interest-rates.md` | 待编写 |
+| 等额本息与贷款摊还 | `03-loan-amortization.md` | ✅ 已完成 |
+| 利率换算与收益率 | `04-interest-rates.md` | 进行中 |
 | 贴现曲线与 NPV | `05-discounting-npv.md` | 待编写 |
 
 欢迎根据学习进度扩展练习题或 Excel/Python 示例代码。
