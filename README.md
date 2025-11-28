@@ -116,6 +116,7 @@ finance-concepts/
 - ✅ `fundamentals/economics/06-inflation-unemployment.md` - 通胀与失业权衡
 - ✅ `fundamentals/economics/07-policy-tools.md` - 财政与货币政策工具
 - ✅ `fundamentals/accounting/02-balance-sheet.md` - 资产负债表结构与示例
+- ✅ `fundamentals/financial-mathematics/00-time-value-intro.md` - 时间价值概念与贴现直觉
 
 ### 进行中
 - ▶️ `fundamentals/economics/09-review-checklist.md` - 阶段复盘与自测
@@ -125,11 +126,11 @@ finance-concepts/
 - ▶️ `fundamentals/accounting/04-cash-flow-statement.md` - 现金流量表与间接法
 - ▶️ `fundamentals/accounting/05-journal-entries.md` - 常见业务与调整分录
 - ▶️ `fundamentals/accounting/06-financial-ratios.md` - 基础财务比率分析
+- ▶️ `fundamentals/financial-mathematics/01-single-sum.md` - 单笔现金流的现值与终值
 
 ### 待开始
 - ⏳ `fundamentals/accounting/00-what-is-accounting.md` - 会计概念与基本假设
-- ⏳ **金融数学** - 货币时间价值、年金、利率与贴现
-- ⏳ **金融市场概览** - 股票、债券、衍生品市场
+- ⏳ `fundamentals/financial-mathematics/02-annuity.md` - 年金与永续年金
 - ⏳ **金融市场概览** - 股票、债券、衍生品市场
 
 ## 🤔 待深入理解的概念

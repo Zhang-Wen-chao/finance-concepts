@@ -40,8 +40,8 @@
 
 | 主题 | 笔记文件 | 状态 |
 | --- | --- | --- |
-| 时间价值入门 | `00-time-value-intro.md` | 进行中 |
-| 单笔现金流现值/终值 | `01-single-sum.md` | 待编写 |
+| 时间价值入门 | `00-time-value-intro.md` | ✅ 已完成 |
+| 单笔现金流现值/终值 | `01-single-sum.md` | 进行中 |
 | 年金与永续年金 | `02-annuity.md` | 待编写 |
 | 等额本息与贷款摊还 | `03-loan-amortization.md` | 待编写 |
 | 利率换算与收益率 | `04-interest-rates.md` | 待编写 |
