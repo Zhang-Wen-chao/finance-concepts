@@ -116,6 +116,7 @@ finance-concepts/
 - ✅ `fundamentals/economics/06-inflation-unemployment.md` - 通胀与失业权衡
 - ✅ `fundamentals/economics/07-policy-tools.md` - 财政与货币政策工具
 - ✅ `fundamentals/accounting/02-balance-sheet.md` - 资产负债表结构与示例
+- ✅ `fundamentals/accounting/00-what-is-accounting.md` - 会计的目标、假设与信息使用者
 - ✅ `fundamentals/financial-mathematics/00-time-value-intro.md` - 时间价值概念与贴现直觉
 
 ### 进行中
@@ -131,7 +132,6 @@ finance-concepts/
 - ▶️ `fundamentals/financial-mathematics/05-discounting-npv.md` - 贴现曲线与净现值
 
 ### 待开始
-- ⏳ `fundamentals/accounting/00-what-is-accounting.md` - 会计概念与基本假设
 - ⏳ **金融市场概览** - 股票、债券、衍生品市场
 - ⏳ **金融市场概览** - 股票、债券、衍生品市场
 

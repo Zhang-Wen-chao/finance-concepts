@@ -42,7 +42,7 @@
 
 | 主题 | 笔记文件 | 状态 |
 | --- | --- | --- |
-| 会计是什么 | `00-what-is-accounting.md` | 待编写 |
+| 会计是什么 | `00-what-is-accounting.md` | ✅ 已完成 |
 | 会计等式与借贷记账 | `01-accounting-equation.md` | 进行中 |
 | 资产负债表 | `02-balance-sheet.md` | ✅ 已完成 |
 | 利润表 | `03-income-statement.md` | 进行中 |
