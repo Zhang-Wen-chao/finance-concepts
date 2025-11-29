@@ -131,6 +131,7 @@ finance-concepts/
 - ▶️ `fundamentals/financial-mathematics/02-annuity.md` - 年金与永续年金
 - ▶️ `fundamentals/financial-mathematics/05-discounting-npv.md` - 贴现曲线与净现值
 - ▶️ `markets/00-market-overview.md` - 金融市场功能与参与者概览
+- ▶️ `markets/01-equity-market.md` - 股票市场发行、交易与指数基础
 
 ### 待开始
 - ⏳ **金融市场概览** - 股票、债券、衍生品市场

@@ -43,8 +43,8 @@
 
 | 主题 | 笔记文件 | 状态 |
 | --- | --- | --- |
-| 市场概览与参与者 | `00-market-overview.md` | 待编写 |
-| 股票市场基础 | `01-equity-market.md` | 待编写 |
+| 市场概览与参与者 | `00-market-overview.md` | ✅ 已完成 |
+| 股票市场基础 | `01-equity-market.md` | 进行中 |
 | 债券与固定收益市场 | `02-fixed-income.md` | 待编写 |
 | 衍生品市场 | `03-derivatives.md` | 待编写 |
 | 外汇市场 | `04-forex-market.md` | 待编写 |
