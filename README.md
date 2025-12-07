@@ -100,42 +100,29 @@ finance-concepts/
 
 ## 🔥 当前优先学习主题
 
-> 待开始学习
+> `markets/04-foreign-exchange-market.md` - 外汇市场基础
 
 ## 📊 学习进度
 
 > 记录学习历程，见证成长
 
 ### 已完成
-- ✅ `fundamentals/economics/00-what-is-economics.md` - 经济学核心理念
-- ✅ `fundamentals/economics/01-supply-and-demand.md` - 供需模型与均衡
-- ✅ `fundamentals/economics/02-elasticity.md` - 弹性与敏感度分析
-- ✅ `fundamentals/economics/03-surplus.md` - 交易福利与无谓损失
-- ✅ `fundamentals/economics/04-market-structures.md` - 不同竞争格局
-- ✅ `fundamentals/economics/05-gdp-and-growth.md` - GDP 与增长指标
-- ✅ `fundamentals/economics/06-inflation-unemployment.md` - 通胀与失业权衡
-- ✅ `fundamentals/economics/07-policy-tools.md` - 财政与货币政策工具
-- ✅ `fundamentals/accounting/02-balance-sheet.md` - 资产负债表结构与示例
-- ✅ `fundamentals/accounting/00-what-is-accounting.md` - 会计的目标、假设与信息使用者
-- ✅ `fundamentals/financial-mathematics/00-time-value-intro.md` - 时间价值概念与贴现直觉
+- ✅ `fundamentals/economics` 基础序列（00–09）
+- ✅ `fundamentals/accounting` 核心概念（00–06）
+- ✅ `fundamentals/financial-mathematics` 时间价值与贴现入门（00–05）
+- ✅ `markets/00-market-overview.md` - 金融市场功能与参与者概览
+- ✅ `markets/01-equity-market.md` - 股票市场发行、交易与指数基础
+- ✅ `markets/02-fixed-income.md` - 固定收益市场核心要点
+- ✅ `markets/03-derivatives-market.md` - 衍生品市场结构与风险管理工具
 
 ### 进行中
-- ▶️ `fundamentals/economics/09-review-checklist.md` - 阶段复盘与自测
-- ▶️ `fundamentals/economics/10-further-learning.md` - 进阶路线规划
-- ▶️ `fundamentals/accounting/01-accounting-equation.md` - 会计等式与借贷记账
-- ▶️ `fundamentals/accounting/03-income-statement.md` - 利润表结构与利润层级
-- ▶️ `fundamentals/accounting/04-cash-flow-statement.md` - 现金流量表与间接法
-- ▶️ `fundamentals/accounting/05-journal-entries.md` - 常见业务与调整分录
-- ▶️ `fundamentals/accounting/06-financial-ratios.md` - 基础财务比率分析
-- ▶️ `fundamentals/financial-mathematics/01-single-sum.md` - 单笔现金流的现值与终值
-- ▶️ `fundamentals/financial-mathematics/02-annuity.md` - 年金与永续年金
-- ▶️ `fundamentals/financial-mathematics/05-discounting-npv.md` - 贴现曲线与净现值
-- ▶️ `markets/00-market-overview.md` - 金融市场功能与参与者概览
-- ▶️ `markets/01-equity-market.md` - 股票市场发行、交易与指数基础
+- ▶️ （暂无——准备阅读外汇模块）
 
 ### 待开始
-- ⏳ **金融市场概览** - 股票、债券、衍生品市场
-- ⏳ **金融市场概览** - 股票、债券、衍生品市场
+- ⏳ `fundamentals/economics/10-further-learning.md` - 进阶路线规划（待整理）
+- ⏳ `markets/04-foreign-exchange-market.md` - 外汇市场基础
+- ⏳ `markets/05-commodities-market.md` - 大宗商品市场概览
+- ⏳ `markets/06-market-infrastructure.md` - 市场基础设施与监管框架
 
 ## 🤔 待深入理解的概念
 
