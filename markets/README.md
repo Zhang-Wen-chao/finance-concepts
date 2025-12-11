@@ -47,7 +47,7 @@
 | 股票市场基础 | `01-equity-market.md` | ✅ 已完成 |
 | 债券与固定收益市场 | `02-fixed-income.md` | ✅ 已完成 |
 | 衍生品市场 | `03-derivatives-market.md` | ✅ 已完成 |
-| 外汇市场 | `04-foreign-exchange-market.md` | ⏳ 待学习 |
+| 外汇市场 | `04-foreign-exchange-market.md` | ✅ 已完成 |
 | 大宗商品市场 | `05-commodities-market.md` | 🛠️ 待编写 |
 | 市场基础设施与监管 | `06-market-infrastructure.md` | 🛠️ 待编写 |
 

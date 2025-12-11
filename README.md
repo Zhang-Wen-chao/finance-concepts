@@ -114,13 +114,13 @@ finance-concepts/
 - ✅ `markets/01-equity-market.md` - 股票市场发行、交易与指数基础
 - ✅ `markets/02-fixed-income.md` - 固定收益市场核心要点
 - ✅ `markets/03-derivatives-market.md` - 衍生品市场结构与风险管理工具
+- ✅ `markets/04-foreign-exchange-market.md` - 外汇市场结构、交易与风险管理
 
 ### 进行中
-- ▶️ （暂无——准备阅读外汇模块）
+- ▶️ （暂无——准备撰写大宗商品模块）
 
 ### 待开始
 - ⏳ `fundamentals/economics/10-further-learning.md` - 进阶路线规划（待整理）
-- ⏳ `markets/04-foreign-exchange-market.md` - 外汇市场基础
 - ⏳ `markets/05-commodities-market.md` - 大宗商品市场概览
 - ⏳ `markets/06-market-infrastructure.md` - 市场基础设施与监管框架
 
