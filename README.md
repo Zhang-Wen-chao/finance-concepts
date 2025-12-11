@@ -100,7 +100,7 @@ finance-concepts/
 
 ## 🔥 当前优先学习主题
 
-> `markets/04-foreign-exchange-market.md` - 外汇市场基础
+> `investment/portfolio-theory/00-portfolio-theory-basics.md` - 投资组合理论基础
 
 ## 📊 学习进度
 
@@ -110,19 +110,14 @@ finance-concepts/
 - ✅ `fundamentals/economics` 基础序列（00–09）
 - ✅ `fundamentals/accounting` 核心概念（00–06）
 - ✅ `fundamentals/financial-mathematics` 时间价值与贴现入门（00–05）
-- ✅ `markets/00-market-overview.md` - 金融市场功能与参与者概览
-- ✅ `markets/01-equity-market.md` - 股票市场发行、交易与指数基础
-- ✅ `markets/02-fixed-income.md` - 固定收益市场核心要点
-- ✅ `markets/03-derivatives-market.md` - 衍生品市场结构与风险管理工具
-- ✅ `markets/04-foreign-exchange-market.md` - 外汇市场结构、交易与风险管理
+- ✅ `markets` 基础系列（00–06）：市场概览、股票、债券、衍生品、外汇、大宗商品、基础设施
 
 ### 进行中
-- ▶️ （暂无——准备撰写大宗商品模块）
+- ▶️ （暂无——准备规划下一阶段学习）
 
 ### 待开始
-- ⏳ `fundamentals/economics/10-further-learning.md` - 进阶路线规划（待整理）
-- ⏳ `markets/05-commodities-market.md` - 大宗商品市场概览
-- ⏳ `markets/06-market-infrastructure.md` - 市场基础设施与监管框架
+- ⏳ `fundamentals/economics/10-further-learning.md` - 经济学进阶路线规划
+- ⏳ `investment/portfolio-theory/00-portfolio-theory-basics.md` - 投资组合理论基础
 
 ## 🤔 待深入理解的概念
 
